@@ -1,0 +1,23 @@
+User-agent: Baiduspider-news
+Disallow: /
+
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /tags/
+Disallow: /page/
+Disallow: /categories/
+Disallow: /wasteland/
+Disallow: /message/
+Disallow: /archive/
+Disallow: /about/
+Disallow: /404/
+Disallow: /index.html
+
+User-Agent: *
+Disallow: /message/
+Disallow: /wasteland/
+Disallow: /about/
+Disallow: /404/
+Sitemap: sitemap.xml
